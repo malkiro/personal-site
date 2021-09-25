@@ -1,0 +1,19 @@
+h3{
+    color: red;
+}
+
+.books-heading{
+    color: blue;
+}
+
+#work-heading{
+    color: darkslategray;
+}
+
+#book-id{
+    color: brown;
+}
+
+.heading-size{
+    font-size: 30px;
+}
